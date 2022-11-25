@@ -1,0 +1,89 @@
+#OuterBox
+{
+   
+    background-image: url(./Image/Grad1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 580px;
+
+}
+
+
+
+#innerBox
+{
+    position: relative;
+    top: 60px;
+    left: 360px;
+    height: 400px;
+    width: 400px;
+     border: 2px solid bisque ; 
+     box-shadow: 2px 2px 4px 7px bisque;
+    background-image: url(./Image/Img1.jpg);
+    transform: translate(-43%,-2%);
+    background-repeat: no-repeat;
+    
+   
+    
+    
+}
+
+#LogName
+{
+    position: relative;
+    top: 5px;
+    left: 200px;
+    color: crimson;
+}
+#NameLabel
+{
+    
+    position: relative;
+    top: 22px;
+    left: 53px;
+    height: 26px;
+    width: 44px;
+
+}
+#NameText
+{
+    position: relative;
+    top: -4px;
+    left: 137px;
+    height: 26px;
+    
+
+}
+
+#PassLabel
+{
+    position: relative;
+    top: 33px;
+    left: 54px;
+    height: 26px;
+
+}
+
+#PassText
+{
+    position: relative;
+    top: 6px;
+    left: 138px;
+    height: 26px;
+
+}
+
+#sub
+{
+    position: relative;
+    top: 112px;
+    left: 58px;
+    height: 26px;
+}
+#Register
+{
+    position: relative;
+    top: 91px;
+    left: 180px;
+
+}
